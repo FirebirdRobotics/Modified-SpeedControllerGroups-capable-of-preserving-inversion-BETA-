@@ -1,5 +1,5 @@
 # Modified-SpeedControllerGroups-capable-of-preserving-inversion-BETA-
-To be used instead of follow method and normal SpeedControllerGroups. Currently missing packaging and comments.
+To be used instead of follow method and normal SpeedControllerGroups. Want to group together inverted controllers? Now you can!!
 
 IMPORTANT: Read comments in methods, since a few work quite differentely than their SpeedControllerGroup counterparts.
 
